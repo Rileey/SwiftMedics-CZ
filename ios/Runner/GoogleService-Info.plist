@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1018018727357-mivajt3p74j35b5npt6norvh8j43mg15.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1018018727357-mivajt3p74j35b5npt6norvh8j43mg15</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCBrAF_Uxk1ZeIJlB-Q85eKBUI1vTbeXy4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1018018727357</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>health.ai</string>
+	<key>PROJECT_ID</key>
+	<string>quiz-app-e8662</string>
+	<key>STORAGE_BUCKET</key>
+	<string>quiz-app-e8662.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1018018727357:ios:7473629efb69b9ca353ed4</string>
+</dict>
+</plist>
